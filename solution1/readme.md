@@ -20,5 +20,6 @@ instead of doing their jobs.
 
 ### Encrypted msg                                            - Solution
 >   vmxibkgrlm                                               - encryption
-   wrw blf hvv ozhg mrtsg'h vkrhlwv?                        - did you see last night's episode?
+  
+  wrw blf hvv ozhg mrtsg'h vkrhlwv?                        - did you see last night's episode?
 >   Yvzs! I xzm'g yvorvev Lzmxv olhg srh qly zg gsv xlolmb!! - Yeah! I can't believe Lance lost his job at the colony!!
