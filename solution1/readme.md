@@ -15,3 +15,10 @@ when decoded, would become ""encryption"".
 Write a function called solution(s) which takes in a string and returns the deciphered string
 so you can show the commander proof that these minions are talking about ""Lance & Janice"" 
 instead of doing their jobs.
+
+## Some of the testing cases:
+
+### Encrypted msg                                            - Solution
+>   vmxibkgrlm                                               - encryption
+>   wrw blf hvv ozhg mrtsg'h vkrhlwv?                        - did you see last night's episode?
+>   Yvzs! I xzm'g yvorvev Lzmxv olhg srh qly zg gsv xlolmb!! - Yeah! I can't believe Lance lost his job at the colony!!
