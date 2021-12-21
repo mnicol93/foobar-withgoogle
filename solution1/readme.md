@@ -1,3 +1,5 @@
+#Solution 1 - Message Encryption
+
 You've caught two of your fellow minions passing coded notes back and forth -- while they're 
 on duty, no less! Worse, you're pretty sure it's not job-related -- they're both huge fans of
 the space soap opera ""Lance & Janice"". You know how much Commander Lambda hates waste, 
